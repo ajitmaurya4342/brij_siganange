@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 878 207.79">
+  <defs>
+    <style>
+      .cls-1,.cls-3{fill:none;}.cls-1{stroke:#fff;}.cls-1,.cls-2,.cls-3{stroke-miterlimit:10;}.cls-1,.cls-2{stroke-width:0.76px;}.cls-2{fill:#fff;}.cls-2,.cls-3{stroke:#000;}.cls-3{stroke-width:3.8px;}.cls-4{fill:url(#linear-gradient);}
+    </style>
+    <linearGradient id="linear-gradient" x1="439" y1="214.74" x2="439" y2="81.87" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#edd088" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#edd088" stop-opacity="0.01"/>
+      <stop offset="0.29" stop-color="#edd088" stop-opacity="0.06"/>
+      <stop offset="0.41" stop-color="#edd088" stop-opacity="0.13"/>
+      <stop offset="0.53" stop-color="#edd088" stop-opacity="0.24"/>
+      <stop offset="0.65" stop-color="#edd088" stop-opacity="0.38"/>
+      <stop offset="0.76" stop-color="#edd088" stop-opacity="0.54"/>
+      <stop offset="0.88" stop-color="#edd088" stop-opacity="0.74"/>
+      <stop offset="0.98" stop-color="#edd088" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#edd088"/>
+    </linearGradient>
+  </defs>
+  <title>
+    desktop screenAsset 42
+  </title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path class="cls-1"
+            d="M732.82,128.63a4110.84,4110.84,0,0,0-594.12-1.31c-9.06.66-18.28-.53-20.62-2.72L8.09,21.76C5.75,19.58,14,17,26.61,16.09a5646.27,5646.27,0,0,1,825,1.82c12.54,1,20.67,3.58,18.2,5.76L753.62,126C751.15,128.17,741.86,129.33,732.82,128.63Z"/>
+      <path class="cls-2"
+            d="M732.82,128.63a4110.84,4110.84,0,0,0-594.12-1.31c-9.06.66-18.28-.53-20.62-2.72L8.09,21.76C5.75,19.58,14,17,26.61,16.09a5646.27,5646.27,0,0,1,825,1.82c12.54,1,20.67,3.58,18.2,5.76L753.62,126C751.15,128.17,741.86,129.33,732.82,128.63Z"/>
+      <path class="cls-3"
+            d="M11.19,21.76C8.87,19.58,17.09,17,29.58,16.09a5565.36,5565.36,0,0,1,819.11,1.82c12.45,1,20.52,3.58,18.07,5.76"/>
+      <path class="cls-4" d="M0,207.79H878L769.6,137.33s-95.75-12.71-334.22-12.71-327,12.71-327,12.71Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 861.29 1.04">
+  <defs>
+    <style>.cls-1{fill:none;stroke-miterlimit:10;stroke-width:1.04px;stroke-dasharray:1.04
+      3.13;stroke:url(#New_Gradient_Swatch_2);}
+    </style>
+    <linearGradient id="New_Gradient_Swatch_2" y1="0.52" x2="861.29" y2="0.52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebc17d"/>
+      <stop offset="0.01" stop-color="#ebc17d"/>
+      <stop offset="0.19" stop-color="#edd089"/>
+      <stop offset="0.41" stop-color="#f4e8d9"/>
+      <stop offset="0.46" stop-color="#ebd6ba"/>
+      <stop offset="0.59" stop-color="#d3aa6c"/>
+      <stop offset="0.68" stop-color="#c58e3c"/>
+      <stop offset="0.73" stop-color="#bf8329"/>
+      <stop offset="0.79" stop-color="#c88f3b"/>
+      <stop offset="0.9" stop-color="#deae68"/>
+      <stop offset="0.95" stop-color="#eabe81"/>
+      <stop offset="1" stop-color="#eabe81"/>
+    </linearGradient>
+  </defs>
+  <title>dotted lineAsset 36</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <line class="cls-1" y1="0.52" x2="861.29" y2="0.52"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32.85 32.85">
+  <defs>
+    <style>
+      .cls-1{fill:#fff;stroke-miterlimit:10;stroke:url(#New_Gradient_Swatch_2);}.cls-2{fill:url(#New_Gradient_Swatch_2-2);}
+    </style>
+    <linearGradient id="New_Gradient_Swatch_2" y1="16.43" x2="32.85" y2="16.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebc17d"/>
+      <stop offset="0.01" stop-color="#ebc17d"/>
+      <stop offset="0.19" stop-color="#edd089"/>
+      <stop offset="0.41" stop-color="#f4e8d9"/>
+      <stop offset="0.46" stop-color="#ebd6ba"/>
+      <stop offset="0.59" stop-color="#d3aa6c"/>
+      <stop offset="0.68" stop-color="#c58e3c"/>
+      <stop offset="0.73" stop-color="#bf8329"/>
+      <stop offset="0.79" stop-color="#c88f3b"/>
+      <stop offset="0.9" stop-color="#deae68"/>
+      <stop offset="0.95" stop-color="#eabe81"/>
+      <stop offset="1" stop-color="#eabe81"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_2-2" x1="8.13" y1="16.43" x2="24.72" y2="16.43"
+                    xlink:href="#New_Gradient_Swatch_2"/>
+  </defs>
+  <title>search iconAsset 47</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <circle class="cls-1" cx="16.43" cy="16.43" r="15.93"/>
+      <path class="cls-2"
+            d="M19.69,10.11a6.78,6.78,0,1,0-1.23,10.55l3.8,3.8a.9.9,0,0,0,1.27,0l.93-.93a.9.9,0,0,0,0-1.27l-3.8-3.8A6.78,6.78,0,0,0,19.69,10.11Zm-2,7.55a3.9,3.9,0,1,1,0-5.52A3.9,3.9,0,0,1,17.66,17.66Z"/>
+    </g>
+  </g>
+</svg>

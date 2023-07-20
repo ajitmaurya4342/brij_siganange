@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.85 31.85">
+  <defs>
+    <style>.cls-1{fill:#810c13;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <title>searchAsset 2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <circle class="cls-1" cx="15.93" cy="15.93" r="15.93"/>
+      <path class="cls-2"
+            d="M19.19,9.61A6.78,6.78,0,1,0,18,20.16l3.8,3.8A.9.9,0,0,0,23,24L24,23a.9.9,0,0,0,0-1.27L20.16,18A6.78,6.78,0,0,0,19.19,9.61Zm-2,7.55a3.9,3.9,0,1,1,0-5.52A3.9,3.9,0,0,1,17.16,17.16Z"/>
+    </g>
+  </g>
+</svg>

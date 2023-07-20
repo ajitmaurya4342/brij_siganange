@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1723.58 12.53">
+  <defs>
+    <style>.cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:1.04px;stroke-dasharray:1.04
+      3.13;}.cls-2{fill:#fff;}
+    </style>
+  </defs>
+  <title>dotted lineAsset 5</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <polyline class="cls-1" points="0 1.79 739.46 1.79 749.46 11.79 759.46 1.79 1721.79 1.79"/>
+      <circle class="cls-2" cx="1.79" cy="1.79" r="1.79"/>
+      <circle class="cls-2" cx="1721.79" cy="1.79" r="1.79"/>
+    </g>
+  </g>
+</svg>

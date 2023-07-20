@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="878" height="207.838"
+     viewBox="0 0 878 207.838">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1929" data-name="Path 1929"
+            d="M1255.356,334.924a4110.966,4110.966,0,0,0-594.118-1.312c-9.065.664-18.281-.534-20.618-2.719l-110-102.829c-2.337-2.185,5.935-4.752,18.524-5.674a5646.193,5646.193,0,0,1,825.046,1.822c12.544.979,20.671,3.583,18.2,5.757L1276.156,332.3C1273.686,334.472,1264.389,335.629,1255.356,334.924Z"
+            fill="#fff" stroke="#811122" stroke-miterlimit="10" stroke-width="0.76"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.084" x2="0.5" y2="-0.514" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#58384f" stop-opacity="0"/>
+      <stop offset="0.239" stop-color="#58384f" stop-opacity="0.039"/>
+      <stop offset="0.445" stop-color="#58384f" stop-opacity="0.157"/>
+      <stop offset="0.638" stop-color="#58384f" stop-opacity="0.361"/>
+      <stop offset="0.822" stop-color="#58384f" stop-opacity="0.643"/>
+      <stop offset="1" stop-color="#58384f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_583" data-name="Group 583" transform="translate(-851 -746.054)">
+    <g id="Group_582" data-name="Group 582" transform="translate(330 539.802)">
+      <g id="Group_581" data-name="Group 581">
+        <g id="Group_580" data-name="Group 580">
+          <g id="Group_579" data-name="Group 579">
+            <g id="Group_574" data-name="Group 574">
+              <path id="Path_1926" data-name="Path 1926"
+                    d="M1255.356,334.924a4110.966,4110.966,0,0,0-594.118-1.312c-9.065.664-18.281-.534-20.618-2.719l-110-102.829c-2.337-2.185,5.935-4.752,18.524-5.674a5646.193,5646.193,0,0,1,825.046,1.822c12.544.979,20.671,3.583,18.2,5.757L1276.156,332.3C1273.686,334.472,1264.389,335.629,1255.356,334.924Z"
+                    fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="0.76"/>
+            </g>
+            <g id="Group_577" data-name="Group 577">
+              <path id="Path_1927" data-name="Path 1927"
+                    d="M1255.356,334.924a4110.966,4110.966,0,0,0-594.118-1.312c-9.065.664-18.281-.534-20.618-2.719l-110-102.829c-2.337-2.185,5.935-4.752,18.524-5.674a5646.193,5646.193,0,0,1,825.046,1.822c12.544.979,20.671,3.583,18.2,5.757L1276.156,332.3C1273.686,334.472,1264.389,335.629,1255.356,334.924Z"
+                    fill="rgba(255,255,255,0)"/>
+              <g id="Group_576" data-name="Group 576" clip-path="url(#clip-path)">
+                <g id="_8oZLeu" data-name="8oZLeu">
+                  <g id="Group_575" data-name="Group 575">
+                    <path id="Path_1928" data-name="Path 1928"
+                          d="M354.482,240.26c196.634-21.918,395.328-32.093,594.871-32.522,199.549.41,398.253,10.567,594.9,32.464h0l-86.6,55.276-86.6,55.276h0c-139.48-15.407-280.12-22.611-421.627-23.008-141.5.41-282.133,7.628-421.6,23.049h0l-86.673-55.267L354.482,240.26Z"
+                          fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="0.76"/>
+                  </g>
+                </g>
+              </g>
+              <path id="Path_1930" data-name="Path 1930"
+                    d="M1255.356,334.924a4110.966,4110.966,0,0,0-594.118-1.312c-9.065.664-18.281-.534-20.618-2.719l-110-102.829c-2.337-2.185,5.935-4.752,18.524-5.674a5646.193,5646.193,0,0,1,825.046,1.822c12.544.979,20.671,3.583,18.2,5.757L1276.156,332.3C1273.686,334.472,1264.389,335.629,1255.356,334.924Z"
+                    fill="none" stroke="#811122" stroke-miterlimit="10" stroke-width="0.76"/>
+            </g>
+            <g id="Group_578" data-name="Group 578">
+              <path id="Path_1931" data-name="Path 1931"
+                    d="M533.726,228.064c-2.321-2.185,5.892-4.752,18.39-5.674a5565.278,5565.278,0,0,1,819.1,1.822c12.454.979,20.523,3.583,18.07,5.757"
+                    fill="none" stroke="#811122" stroke-miterlimit="10" stroke-width="3.798"/>
+            </g>
+          </g>
+          <path id="Path_1932" data-name="Path 1932"
+                d="M521,414.091h878L1290.6,343.63s-95.749-12.706-334.218-12.706S629.4,343.63,629.4,343.63Z"
+                fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

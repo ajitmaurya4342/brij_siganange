@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.12 13">
+  <defs>
+    <style>.cls-1{fill:#CC202E;}</style>
+  </defs>
+  <title>play buttonAsset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path class="cls-1"
+            d="M0,1.3C0,.84,0,.36.54.11A1.51,1.51,0,0,1,1.95.32L12.18,5.55c1.25.64,1.24,1.37,0,2L2,12.69l-.39.18c-.88.35-1.54,0-1.59-.84Z"/>
+    </g>
+  </g>
+</svg>
